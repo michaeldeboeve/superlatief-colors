@@ -1,7 +1,7 @@
 {
   "name": "superlatief-colors",
   "description": "A set of scss, stylus and less color variables, including Material Design and Social Media Colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "",
   "authors": [
     "Michaël de Boevé"

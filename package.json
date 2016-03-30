@@ -1,0 +1,25 @@
+{
+  "name": "superlatief-colors",
+  "version": "0.0.1",
+  "description": "A set of scss, stylus and less color variables, including Material Design and Social Media Colors.",
+  "repository": "https://github.com/michaeldeboeve/superlatief-colors",
+  "keywords": [
+    "colors",
+    "sass",
+    "scss",
+    "stylus",
+    "less",
+    "Material Design",
+    "Social Media",
+    "superlatief",
+    "robonkey"
+  ],
+  "author": "Michaël de Boevé",
+  "license": "MIT",
+  "dependencies": {},
+  "files": [
+    "scss",
+    "stylus",
+    "less"
+  ]
+}
